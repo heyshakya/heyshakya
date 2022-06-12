@@ -1,3 +1,8 @@
+<div align = "center"> <img src = "media/hi.webp"> <img src = "media/panda.gif"></div>
+
+<div align = "center"> Hi, I'm Abhishek 👋🏾 </div>
+
+
 ### Hi there 👋
 
 <!--
