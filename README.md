@@ -1,7 +1,7 @@
 <div align = "center"> <img src = "hi.webp"> <img src = "panda.gif"></div> <br>
-<div align = "center">
-# Hi, I'm Abhishek 👋🏾
-</div>
+<h1><div align = "center"> Hi, I'm Abhishek 👋🏾 </div></h1>
+
+<h1>Heading 1</h1>
 
 
 ### Hi there 👋
