@@ -83,7 +83,9 @@ I am also a huge supporter of **Open-Source Hardware and EDA Tools**. <br>
 </p>
 <br>
 
-
+   <a href="mailto:abhishekiiitdwd@gmail.com">
+    <img alt="Abhishek's Gmail ID" title="Gmail" height="48" width="48" src="Gmail_icon_(2020).svg.png">
+  </a>
 
 
 
