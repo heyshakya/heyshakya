@@ -46,24 +46,18 @@ I am also a huge supporter of **Open-Source Hardware and EDA Tools**. <br>
   </a>
 
    <a href="mailto:abhishekiiitdwd@gmail.com">
-    <img alt="Abhishek's Gmail ID" title="Gmail" height="48" width="48" src="media/gmail.svg">
-  </a>
-
-
-  <a href="https://twitter.com/heyshakya" >
-    <img alt="Abhishek's Twitter" title="Twitter" height="48" width="48" src="media/twitter.svg">
+    <img alt="Abhishek's Gmail ID" title="Gmail" height="60" width="60" src="media/gmail.svg">
   </a>
 
    <a href="https://github.com/heyshakya">
     <img alt="Abhishek's GitHub" title="GitHub" height="48" width="48" src="media/github.svg">
   </a>
-
+  
+  <a href="https://twitter.com/heyshakya" >
+    <img alt="Abhishek's Twitter" title="Twitter" height="48" width="48" src="media/twitter.svg">
+  </a>
 </p> 
 
-<br>
-
-
-<div align = "center"> <img src = "media/pac_man.gif"> </div> <br>
 
 
 
