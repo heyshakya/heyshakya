@@ -2,8 +2,6 @@
 <h1> <div align = "center"> Hi, I'm Abhishek 👋🏾 </div> </h1>
 <div align = "center"> <img alt = "profile views" src="https://komarev.com/ghpvc/?username=heyshakya"> </div> <br>
 
-<br>
-
 - 🔭 I’m currently working on designing processor cores and accelerator designs
 - 🌱 I’m currently learning FPGAs, SystemVerilog, and Computer Architecture
 - 👯 I’m looking to collaborate on open-source hardware projects and accelerator designs
@@ -13,7 +11,6 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ```electronic systems have no relevance in real world if they don’t have analog circuits```
 
-<br>
 <br>
 
 I'm a final year undergraduate student at [Indian Institute of Information Technology Dharwad](https://iiitdwd.ac.in/), Karnataka, India pursuing my BTech in Electronics and Communication Engineering. In my undergrad so far I have worked with FPGAs, Microcontrollers, and Circuit Designs. I'm also an undergraduate researcher who had worked under the guidance of [Dr. Prabhu Prasad](https://prabhuprasadbm.github.io/) and [Dr. Jagadish D N](https://iiitdwd.ac.in/Dr.Jagadish.php) at the Department of CSE and ECE. I was also a research intern at Defence Research and Development Organisation, Delhi, India in the summer of 2021. <br>
@@ -31,30 +28,28 @@ I am also a huge supporter of **Open-Source Hardware and EDA Tools**. <br>
       <li> RISC V and other Processor Design </li>
       <li> HW Accelerator Design for different applications </li>
     </ul>
-</h3> <br>
-
-
-<p align="center">
-<h4> Connect with me : </h4>
-</p>
+</h3> 
 <br>
+
+<h3> <p align="center">  Connect with me :  </p> </h3>
+
 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/heyshakya/" >
-    <img alt="Abhishek's LinkedIn" title="LinkedIn" height="48" width="48" src="media/linkedin.svg">
+    <img alt="Abhishek's LinkedIn" title="LinkedIn" height="35" width="35" src="media/linkedin.svg">
   </a>
 
    <a href="mailto:abhishekiiitdwd@gmail.com">
-    <img alt="Abhishek's Gmail ID" title="Gmail" height="48" width="48" src="media/gmail_2.png">
+    <img alt="Abhishek's Gmail ID" title="Gmail" height="42" width="42" src="media/gmail_2.png">
   </a>
 
    <a href="https://github.com/heyshakya">
-    <img alt="Abhishek's GitHub" title="GitHub" height="48" width="48" src="media/github.svg">
+    <img alt="Abhishek's GitHub" title="GitHub" height="35" width="35" src="media/github.svg">
   </a>
   
   <a href="https://twitter.com/heyshakya" >
-    <img alt="Abhishek's Twitter" title="Twitter" height="48" width="48" src="media/twitter.svg">
+    <img alt="Abhishek's Twitter" title="Twitter" height="35" width="35" src="media/twitter.svg">
   </a>
 </p> 
 
