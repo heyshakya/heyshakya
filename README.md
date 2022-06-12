@@ -1,6 +1,7 @@
-<div align = "center"> <img src = "media/hi.webp"> <img src = "media/panda.gif"></div> <br>
+<div align = "center"> <img src = "media/hi.webp"> <img src = "media/panda.gif"></div>
 <h1> <div align = "center"> Hi, I'm Abhishek 👋🏾 </div> </h1>
-<div align = "center"> <img alt = "profile views" src="https://komarev.com/ghpvc/?username=heyshakya"> </div>
+<div align = "center"> <img alt = "profile views" src="https://komarev.com/ghpvc/?username=heyshakya"> </div> <br>
+
 <br>
 
 - 🔭 I’m currently working on designing processor cores and accelerator designs
