@@ -9,7 +9,7 @@
 - 💬 Ask me anything related to Hardware, VLSI Design, Computer Architecture, Life, and Society in general.
 - 📫 I would love to read your emails, email me at abhishekiiitdwd@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ```electronic systems have no relevance in real world if they don’t have analog circuits```
+- ⚡ Fun fact: ```DIGITAL ELECTRONIC SYSTEMS have NO RELEVANCE in real-world if they don’t have ANALOG CIRCUITS, but ANALOG SYSTEMS can go on WITHOUT their digital counterparts```
 
 <br>
 
