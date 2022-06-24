@@ -13,7 +13,7 @@
 
 <br>
 
-I'm a final year undergraduate student at [Indian Institute of Information Technology Dharwad](https://iiitdwd.ac.in/), Karnataka, India pursuing my BTech in Electronics and Communication Engineering. In my undergrad so far I have worked with FPGAs, Microcontrollers, and Circuit Designs. I'm also an undergraduate researcher who had worked under the guidance of [Dr. Prabhu Prasad](https://prabhuprasadbm.github.io/) and [Dr. Jagadish D N](https://iiitdwd.ac.in/Dr.Jagadish.php) at the Department of CSE and ECE. I was also a research intern at Defence Research and Development Organisation, Delhi, India in the summer of 2021. <br>
+I'm a final year undergraduate student at [Indian Institute of Information Technology Dharwad](https://iiitdwd.ac.in/), Karnataka, India pursuing my BTech in Electronics and Communication Engineering. In my undergrad so far I have worked with FPGAs, Microcontrollers, and Circuit Designs. I'm also an undergraduate researcher who had worked under the guidance of [Dr. Prabhu Prasad B M](https://prabhuprasadbm.github.io/) and [Dr. Jagadish D N](https://iiitdwd.ac.in/Dr.Jagadish.php) at the Department of CSE and ECE. I was also a research intern at Defence Research and Development Organisation, Delhi, India in the summer of 2021. <br>
 I am also a huge supporter of **Open-Source Hardware and EDA Tools**. <br>
 
 <h3>I'm always open to Research/Internship Opportunities in : 
